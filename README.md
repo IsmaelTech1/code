@@ -11,4 +11,4 @@ For easy setup go the the website at https://ismaeltech1.github.io/unblocker/
 
 javascript:(function () {var a = document.createElement('script');a.src ='https://cdn.jsdelivr.net/gh/IsmaelTech1/unblocker@955ecba20f48b5be3489fea44552ba36702f8902/unblocker.min.js';document.body.appendChild(a);}());
 
-4. Go to https://chrome.google.com/webstore_ and click the bookmark
+4. Go to `https://chrome.google.com/webstore_` and click the bookmark
