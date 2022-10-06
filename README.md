@@ -1,4 +1,4 @@
-# Unblocker
+# Unblocker for School
 A bookmarklet to disable extensions
 ### Steps
 For easy setup go the the website at https://ismaeltech1.github.io/unblocker/
