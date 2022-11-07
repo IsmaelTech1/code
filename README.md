@@ -1,6 +1,7 @@
 # Unblocker for School
 A bookmarklet to disable extensions
 ### Steps
+https://now.gg/apps/roblox-corporation/5349/roblox.html
 For easy setup go the the website at https://ismaeltech1.github.io/unblocker/
 
 1. Show your bookmarks bar with `ctrl + shift + b`
